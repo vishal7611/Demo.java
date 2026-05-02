@@ -1,0 +1,1 @@
+This is a text file to see the effect of GitHub and git coordination
